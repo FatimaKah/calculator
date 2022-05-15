@@ -1,3 +1,12 @@
 .title {
   text-align: center;
 }
+
+.calculator-container {
+  border: solid;
+  border-width: 1px;
+  height: 400px;
+  width: 300px;
+  border-radius: 15px;
+  margin: auto;
+}
